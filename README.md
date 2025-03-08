@@ -132,11 +132,6 @@ The notebook produces multiple visualizations:
 - Radar charts showing segment profiles
 - Comparative bar charts of segments across features
 
-Here are some example visualizations:
-
-![PCA Clusters](https://via.placeholder.com/600x400?text=PCA+Clusters+Visualization)
-![Radar Chart](https://via.placeholder.com/600x400?text=Radar+Chart+of+Segments)
-![Segment Distribution](https://via.placeholder.com/600x400?text=Segment+Distribution)
 
 ## 🤝 Contributing
 
