@@ -51,8 +51,8 @@ The analysis uses `customer_behavior_analytcis.csv`, containing the following fe
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/customer-segmentation.git
-   cd customer-segmentation
+   git clone https://github.com/Hiran-Abhisheka/Intellihack_Astartes_2.git
+   cd Intellihack_Astartes_2
    ```
 
 2. Install the required packages:
