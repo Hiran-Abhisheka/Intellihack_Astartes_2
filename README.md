@@ -33,7 +33,6 @@ This analysis provides actionable insights for marketing teams to optimize campa
 - [Results](#results)
 - [Visualizations](#visualizations)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 📊 Dataset Description
 
